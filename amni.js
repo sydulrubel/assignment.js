@@ -34,3 +34,18 @@
 // friends = ['Joynal', 'Pitu', 'Jahid', 'Mamun', 'Sanjoy', 'Aminur', 'Shohel', 'Amranul', 'Nazrul', 'Jagannath']
 // var niceGuy = megaFriend(friends);
 // console.log(niceGuy);
+
+
+function budgetCalculator(a, b, c){
+   var total = x + y + z;
+   return total;
+   var x = a * 50
+   return x;
+   var y = b * 100;
+    return y;
+    var z = c * 500;
+    return z;
+   }
+} 
+var asdf = budgetCalculator( 3, 5, 8);
+console.log(asdf);
